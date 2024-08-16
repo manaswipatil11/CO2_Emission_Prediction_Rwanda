@@ -5,8 +5,12 @@ The "Prediction of CO2 Emissions in Rwanda" project delves into the intricate re
 
 This project centers around conducting a comprehensive exploratory data analysis (EDA) to uncover meaningful insights and patterns within a diverse dataset. The primary objective is to build a foundation for developing accurate predictive models for CO2 emissions, thereby aiding policymakers, environmentalists, and stakeholders in making informed decisions to curb and mitigate the country's carbon emissions.
 
+![download (3)](https://github.com/user-attachments/assets/a7107f0c-dd53-4cd9-ae77-35875064318a)
+
+
 These are my beginner-level submissions. Learning and exploring new possibilities. Hope this helps you.
 
 Here, are the links to access the dataset:
 train data- https://www.kaggle.com/competitions/playground-series-s3e20/data?select=train.csv
 test data- https://www.kaggle.com/competitions/playground-series-s3e20/data?select=test.csv
+
